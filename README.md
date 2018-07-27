@@ -7,6 +7,6 @@ Simply upload filedownloader.php to your host using ftp or cpanel and follow bel
 
 Instructions:
 
-1. place your full download url ex: 
+1. place your full download url ex: http://www.domain.com/file.zip
 2. Click Download here button and wait for the download complete message. 
 * Download time will be upto your file size and server's bandwidth.
