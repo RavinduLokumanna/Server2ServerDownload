@@ -1,4 +1,4 @@
-# PHP Server2ServerDownload
+# PHP Server 2 Server Download Script
 Download any file from a direct url into a php and Apache based sever
 
 Simply upload filedownloader.php to your host using ftp or cpanel and follow below instructions. You will not need to download files from one server to your local machine and re upload it into some otherser which used php and apache. This saves your time!
